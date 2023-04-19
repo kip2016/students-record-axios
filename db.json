@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "Reg_No": "BSC-0971-2022",
+      "course": "Computer science"
+    },
+    {
+      "id": 2,
+      "firstName": "Tom",
+      "lastName": "Perdue",
+      "Reg_No": "BSC-0972-2022",
+      "course": "Data Algorithms"
+    },
+    {
+      "id": 3,
+      "firstName": "Mark",
+      "lastName": "Adams",
+      "Reg_No": "BSC-0973-2022",
+      "course": "React Js"
+    },
+    {
+      "id": 4,
+      "firstName": "Janet",
+      "lastName": "Akini",
+      "Reg_No": "BSC-0974-2022",
+      "course": "Data science"
+    }
+  ]
+}
